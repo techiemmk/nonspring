@@ -3,7 +3,8 @@ Sample Java program to handle HttpRequest
 
 ##### Usage:
 java edu.mmk.web.SimpleWeb `your_context_path`
-otherwise the server launched with default context path `myserver`
+
+>otherwise the server launched with default context path `myserver`
 
 ##### Example:
 java edu.mmk.web.SimpleWeb
